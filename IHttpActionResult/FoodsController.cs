@@ -9,7 +9,7 @@ using System.Web.Http.Description;
 
 namespace _2509.Controllers
 {
-    public class ValuesController : ApiController
+    public class FoodsController : ApiController
     {
         // just for demo
         private static List<Food> foods = new List<Food>();
